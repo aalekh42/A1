@@ -1,4 +1,3 @@
 Places:
 Mumbai
 Delhi
-Pune
